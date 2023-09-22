@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "447478387503",
+    "project_id": "lol-application",
+    "storage_bucket": "lol-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447478387503:android:4ba7de188b4b90b0a1c7da",
+        "android_client_info": {
+          "package_name": "com.patel.lolapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXkCtZLUpAvhpk1TAJOon6UFaBg5ehlLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
